@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559433887 source:/home/julien/Documents/Projets/RandomCharaterGenerator/RandomCharaterGenerator/main.cpp
+	<iostream>
+
+1559494160 source:/home/julien/Documents/Projets/RandomCharaterGenerator/main.cpp
+	<iostream>
+	"Model/Roulette.hpp"
+
+1559494247 /home/julien/Documents/Projets/RandomCharaterGenerator/Model/Roulette.hpp
+	<string>
+	<vector>
+
+1559493908 source:/home/julien/Documents/Projets/RandomCharaterGenerator/Model/Roulette.cpp
+	"Roulette.hpp"
+
